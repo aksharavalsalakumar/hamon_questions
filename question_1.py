@@ -1,3 +1,5 @@
+This function effectively reads the contents of a file specified by its filename. It uses a try-except block to handle file opening errors.
+
 #improved code
 def get_contents(fname):
     try:
